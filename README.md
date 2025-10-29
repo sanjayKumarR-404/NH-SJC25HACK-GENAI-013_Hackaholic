@@ -1,1 +1,0 @@
-# NH-SJC25HACK-GENAI-013_Hackaholic
