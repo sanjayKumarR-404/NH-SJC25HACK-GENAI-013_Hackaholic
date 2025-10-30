@@ -64,7 +64,7 @@ Marketing campaign planning typically requires coordination between multiple dep
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Veins19/MarketBridge.git
+   git clone https://github.com/sanjayKumarR-404/NH-SJC25HACK-GENAI-013_Hackaholic.git
    cd MarketBridge/frontend
    ```
 
@@ -217,11 +217,6 @@ MarketBridge/
    ```
 5. Open a Pull Request
 
----
-
-## License
-
-This project is licensed under the **MIT License**, allowing free use, modification, and distribution.
 
 ---
 
